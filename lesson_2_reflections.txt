@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git initialize a list in which it will track all the changes which will take place. At the beginning it starts wit hthe list of not tracked files already present in the directrory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+One can choose which files are to be commited - what entities they make.
