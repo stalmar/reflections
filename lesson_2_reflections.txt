@@ -5,3 +5,6 @@ Git initialize a list in which it will track all the changes which will take pla
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 One can choose which files are to be commited - what entities they make.
+
+Reflect: Commit Size
+
